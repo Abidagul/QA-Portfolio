@@ -1,1 +1,30 @@
+# Process Flows
+
+This folder contains business process flows, workflow diagrams, and system flow charts used for requirement analysis and QA testing activities.
+
+## Included Documents
+
+* External Organization Request Flow
+* Sponsorship Module Process Flow
+* Donation Module Process Flow
+* User Registration Workflow
+
+## Purpose
+
+These workflow diagrams help in understanding business processes, approval hierarchies, user journeys, and system behavior, supporting test case design and validation activities.
+
+## QA Activities Supported
+
+* Requirement Analysis
+* Test Scenario Design
+* Workflow Validation
+* Business Process Verification
+* Requirement Traceability
+
+## Tools Used
+
+* Creately
+* Draw.io
+* Microsoft Visio
+* Microsoft PowerPoint
 
