@@ -4,7 +4,7 @@ This folder contains Functional Requirement Specification (FRS) documents used f
 
 ## Included Documents
 
-* Donation Module FRS
+* Musadat Module FRS
 * Business Requirement Documents
 * Functional Workflows
 * Process Flow Diagrams
